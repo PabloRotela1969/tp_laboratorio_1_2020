@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 #include "ArrayEmployees.h"
+#define T 1000
 
-//#define T 1000
-#define T 5
 
 //el harcodeo de empleados está en la función MENU para activarlo
 // o desactivarlo favor de comentarlo o descomentarlo alternativamente
+// NO puse un punto de menú porque no me pareció oportuno que el usuario lo vea
 
 int main()
 {
