@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1604791881 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1604948392 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/LinkedList.h
+
+1605843607 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Employee.h
+
+1604791340 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Controller.h
+	"Employee.h"
+	"parser.h"
+	"Funciones.h"
+
+1604335642 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/parser.h
+
+1604629923 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Funciones.h
+
+1605843694 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1604630464 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/Funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1605474004 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1605843607 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1604791881 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"Employee.h"
+
+1606501127 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1606502673 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/LinkedList.h
+	"Funciones.h"
+
+1606502673 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Employee.h
+
+1606488745 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Controller.h
+	"Employee.h"
+	"parser.h"
+	"Funciones.h"
+
+1604335642 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/parser.h
+
+1606494130 /home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Funciones.h
+
+1606500906 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1606499754 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/Funciones.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1606500906 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606500906 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1604791881 source:/home/pfr/Escritorio/UTNfra_TEC/T_P/ProgLab2cuat/EJERCITACION/EmpleadosConMiLinkedlist0/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"Employee.h"
+
